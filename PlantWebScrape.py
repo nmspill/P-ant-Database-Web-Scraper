@@ -42,7 +42,7 @@ def collect_specifications(link, type_name):
 	return list_of_specifications
 
 fields = ['Type', 'Botanical Name', 'Common Name', 'Flower Color', 'Height', 'Width', 'Season of Bloom', 'Light Preference', 'Hardiness Zone']
-filename = 'C:\\Users\\nolan\\OneDrive\\Desktop\\Plant_Database.csv'
+filename = '*csv file path*'
 	
 list_of_rows = []
 
